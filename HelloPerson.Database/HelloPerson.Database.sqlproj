@@ -62,6 +62,7 @@
   <ItemGroup>
     <Build Include="Tables\Person.sql" />
     <Build Include="Tables\Address.sql" />
+    <Build Include="Tables\Phone.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="HelloPerson.Database.publish.xml" />
