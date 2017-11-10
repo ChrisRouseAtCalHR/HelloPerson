@@ -53,6 +53,7 @@ build/
 *.pidb
 *.log
 *.scc
+*.jfm
 
 # OS generated files #
 .DS_Store*
